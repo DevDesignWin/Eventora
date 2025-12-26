@@ -1,4 +1,3 @@
-
 ## Features
 
 ### For Event Attendees
