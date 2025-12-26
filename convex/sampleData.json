@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Apple WWDC 2026",
+    "description": "Experience the future of Apple software, devices, and innovation.",
+    "price": 1299.00,
+    "totalTickets": 5000,
+    "location": "Apple Park, Cupertino, California",
+    "eventDate": 1786022400000,
+    "userId": "user_futureTech01"
+  },
+  {
+    "name": "Olympics Opening Ceremony 2028",
+    "description": "Witness the grand opening of the world's biggest sports event.",
+    "price": 2500.00,
+    "totalTickets": 80000,
+    "location": "Los Angeles Memorial Coliseum, USA",
+    "eventDate": 1845916800000,
+    "userId": "user_globalEvent01"
+  },
+  {
+    "name": "Tomorrowland 2026",
+    "description": "The world’s biggest EDM festival returns with futuristic stages and artists.",
+    "price": 1200.00,
+    "totalTickets": 60000,
+    "location": "Boom, Belgium",
+    "eventDate": 1783886400000,
+    "userId": "user_musicFuture"
+  },
+  {
+    "name": "Meta Connect Summit 2026",
+    "description": "Dive into the future of VR, AR, and the Metaverse.",
+    "price": 950.00,
+    "totalTickets": 2000,
+    "location": "San Jose Convention Center, California",
+    "eventDate": 1788960000000,
+    "userId": "user_metaLab"
+  },
+  {
+    "name": "FIFA World Cup Final 2026",
+    "description": "Watch the crowning moment of world football champions.",
+    "price": 3500.00,
+    "totalTickets": 70000,
+    "location": "MetLife Stadium, New Jersey",
+    "eventDate": 1781395200000,
+    "userId": "user_fifaAdmin"
+  },
+  {
+    "name": "Dubai Future Tech Expo 2027",
+    "description": "A global showcase of AI, robotics, smart cities, and future innovations.",
+    "price": 600.00,
+    "totalTickets": 12000,
+    "location": "Dubai World Trade Centre, UAE",
+    "eventDate": 1812451200000,
+    "userId": "user_dubaiExpo"
+  },
+  {
+    "name": "Avengers Multiverse Premiere 2026",
+    "description": "Be among the first to witness Marvel’s biggest cinematic experience.",
+    "price": 450.00,
+    "totalTickets": 10000,
+    "location": "Dolby Theatre, Los Angeles",
+    "eventDate": 1787424000000,
+    "userId": "user_marvelFan"
+  },
+  {
+    "name": "Google I/O 2027",
+    "description": "A global developer experience unveiling the next generation of technology.",
+    "price": 1400.00,
+    "totalTickets": 6000,
+    "location": "Shoreline Amphitheatre, California",
+    "eventDate": 1814966400000,
+    "userId": "user_devFuture"
+  },
+  {
+    "name": "SpaceX Starship Tourism Voyage 2027",
+    "description": "Experience the world’s first luxury space trip.",
+    "price": 500000.00,
+    "totalTickets": 12,
+    "location": "Kennedy Space Center, Florida",
+    "eventDate": 1819843200000,
+    "userId": "user_spaceElite"
+  },
+  {
+    "name": "Coldplay Final Farewell Tour 2027",
+    "description": "Celebrate the journey of Coldplay with their last global music tour.",
+    "price": 800.00,
+    "totalTickets": 50000,
+    "location": "Wembley Stadium, London",
+    "eventDate": 1817203200000,
+    "userId": "user_musicLegends"
+  }
+]
